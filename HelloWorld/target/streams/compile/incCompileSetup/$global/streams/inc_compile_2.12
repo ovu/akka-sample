@@ -1,0 +1,137 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/HelloActor$$anonfun$receive$1.class
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/HelloActor.class
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/Main$.class
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/Main$delayedInit$body.class
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/Main.class
+binary dependencies:
+3 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.2-M1.jar
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> /Users/omardiego/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> HelloActor
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> HelloActor$$anonfun$receive$1
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Main
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Main$
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Main$delayedInit$body
+used names:
+47 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> !
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> <init>
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> ==
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> A1
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> AbstractPartialFunction
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Actor
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> ActorRef
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> ActorSystem
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Any
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> App
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> B1
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Boolean
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Class
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> ClassTag
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Function1
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> HelloActor
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Main
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Nothing
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Object
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Predef
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Props
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> ScalaActorRef
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> String
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> T
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> T0
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> Unit
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> _$7
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> actor
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> actorOf
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> actorRef2Scala
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> akka
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> apply
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> asInstanceOf
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> helloActor
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> materializeClassTag
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> package
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> println
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> qual$1
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> qual$2
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> reflect
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> scala
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> system
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> unchecked
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> x$1
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> x$2
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> x$3
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> x$4
+product stamps:
+5 items
+/Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/HelloActor$$anonfun$receive$1.class -> lastModified(1538169251000)
+/Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/HelloActor.class -> lastModified(1538169251000)
+/Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/Main$.class -> lastModified(1538169251000)
+/Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/Main$delayedInit$body.class -> lastModified(1538169251000)
+/Users/omardiego/project/test/HelloWorld/target/scala-2.12/classes/Main.class -> lastModified(1538169251000)
+source stamps:
+1 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> hash(71b01fee263dd66f383514320459aa98e1694d3a)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/omardiego/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.2-M1.jar -> lastModified(1360942976000)
+/Users/omardiego/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar -> lastModified(1538037357000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/omardiego/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.2-M1.jar -> akka.actor.Actor
+/Users/omardiego/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar -> scala.App
+internal apis:
+1 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwmMcJ+QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAqb3xvdAAEc2VsZnNxAH4AC+Pj/A50AAdjb250ZXh0dXEAfgAJAAAAJnNxAH4AC+c1w4Z0AAZub3RpZnlzcQB+AAvOqbiVdAAHUmVjZWl2ZXNxAH4ACxfCNrV0AAR3YWl0c3EAfgALlRBtz3QADSRhc0luc3RhbmNlT2ZzcQB+AAu9A245dAAGc3lzdGVtc3EAfgALZCAJPnQABmVxdWFsc3NxAH4AC5JT2Op0AAxhc0luc3RhbmNlT2ZzcQB+AAvyefQMdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAtmKJqAdAAKaGVsbG9BY3RvcnNxAH4AC/ZIHBR0AAxzeW5jaHJvbml6ZWRzcQB+AAvRFb0qdAANJGlzSW5zdGFuY2VPZnNxAH4AC7FdnmZ0AAdyZWNlaXZlc3EAfgALFLKnI3QACnByZVJlc3RhcnRzcQB+AAsEBRbHdAALcG9zdFJlc3RhcnRzcQB+AAueLcqzdAAEbWFpbnNxAH4ACyt08xJ0AAhwb3N0U3RvcHNxAH4AC1Xjscx0AAlub3RpZnlBbGxzcQB+AAu+zwEwdAAMaXNJbnN0YW5jZU9mc3EAfgALuIuYCXQABjxpbml0PnNxAH4ACzP2fId0AAhwcmVTdGFydHNxAH4AC37u0BF0AAl1bmhhbmRsZWRzcQB+AAsMcoQfdAACPT1zcQB+AAso65Y2dAAFY2xvbmVzcQB+AAuyOOlUdAAKSGVsbG9BY3RvcnNxAH4AC7APluV0AAYkaW5pdCRzcQB+AAv2kM7qdAAGc2VuZGVyc3EAfgAL0891e3QABE1haW5zcQB+AAt4z7GsdAAIdG9TdHJpbmdzcQB+AAtBBRmwdAAEYXJnc3NxAH4AC9+FidV0AAIhPXNxAH4AC7ti49J0AAhnZXRDbGFzc3NxAH4AC2W3ltZ0AAJuZXNxAH4AC53e6Gx0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAvwVDYPdAACZXFzcQB+AAv0HQgddAALZGVsYXllZEluaXRzcQB+AAuePp3RdAACIyNzcQB+AAu8qJqPdAAIZmluYWxpemVzcQB+AAtKMN2BdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AEF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIRzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCcdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHQABk9iamVjdHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAAEbGFuZ3EAfgCjc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAcQB+AEd1cQB+AHYAAAAAfnEAfgB4dAAGTW9kdWxldXEAfgB8AAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQADHNjYWxhLm5hdGl2ZXNxAH4Af3EAfgCFc3EAfgB/c3EAfgCHc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AaHEAfgBxdXEAfgByAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AxnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJB0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4As3EAfgCjc3EAfgB0AHEAfgAvdXEAfgB2AAAAAHNxAH4AkHQABFVuaXRxAH4A1XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AMZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHl0AAVQbGFpbnEAfgBLc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCRWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCDc3EAfgCQdAAFQXJyYXlxAH4A1XVxAH4AjgAAAAFzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AKpzcQB+AJxxAH4ArHEAfgCjc3EAfgB/dXEAfgCOAAAABHNxAH4AkHQAA0FwcHEAfgDVc3EAfgCQdAALRGVsYXllZEluaXRxAH4A1XNxAH4AkHEAfgClcQB+APJzcQB+AJBxAH4ArnEAfgDVdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWYiB99HdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQi9Vc2Vycy9vbWFyZGllZ28vcHJvamVjdC90ZXN0L0hlbGxvV29ybGQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHGwH+4mPdZvODUUMgRZqpjhaU06
+external apis:
+0 items
+source infos:
+1 items
+/Users/omardiego/project/test/HelloWorld/src/main/scala/HelloActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZiIH30d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy9vbWFyZGllZ28vcHJvamVjdC90ZXN0L0hlbGxvV29ybGQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
